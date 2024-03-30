@@ -3,10 +3,7 @@ We created a product landing page to assist market musical instruments, specific
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/PRODUCT-LANDING-PAGE/
 
-## HOW IT'S MADE:
-## TECH USED:
-* HTML
-* CSS
+
 
 
 ## OPTIMIZATIONS
