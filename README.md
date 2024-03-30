@@ -10,7 +10,7 @@ We created a product landing page to assist market musical instruments, specific
 
 
 ## OPTIMIZATIONS
-* Bring Javascript into the project to give it a more dynamic    
+* Bring Javascript into the project to give it a more dynamic aspect.   
 
 ## LESSONS LEARNED:
 * How to use Media queries to create responsive web designs that adjust to various devices and screen sizes. 
