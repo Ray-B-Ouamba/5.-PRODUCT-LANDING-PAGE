@@ -26,6 +26,9 @@ We created a product landing page to assist market musical instruments, specific
 **TECHNICAL-DOCUMENTATION-PAGE:**
 https://ray-b-ouamba.github.io/TECHNICAL-DOCUMENTATION-PAGE/
 
+**DENZEL-WASHINGTON-TRIBUTE-PAGE:**
+https://ray-b-ouamba.github.io/DENZEL-WASHINGTON-TRIBUTE-PAGE/
+
 **BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:**
 https://ray-b-ouamba.github.io/SELECT-BACKGROUND-COLOR-FOR-YOUR-YOUTUBE-CHANNEL/
 
